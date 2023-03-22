@@ -1,0 +1,41 @@
+  body{
+
+background-color:#FF8B13;
+}
+
+    .h1{
+        color:rgb(255, 255, 255);
+
+
+    }
+    legend{
+
+        color:white;
+    }
+
+    th{
+
+
+        color:white;
+    }
+    .branco{
+        background-color:white;
+    }
+
+    .hidden {
+        border:none;
+      }
+      .primeiraparte{
+
+        background-color:white;
+
+
+      }
+      label{
+        color:white;
+
+      }
+      td{
+
+        color:white;
+      }
