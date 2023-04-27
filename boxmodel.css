@@ -1,0 +1,26 @@
+#div{
+    width: 200px;
+    height: 200px;
+    }
+    
+#div2{
+    width: 200px;
+    height: 200px;
+
+}
+
+#div3{
+    width: 200px;
+    height: 200px;
+
+}
+
+#div4{
+position:absolute;
+right: 150px;
+top:10px;
+}
+#div5{
+position: absolute;
+right: 150px;
+}
